@@ -3,6 +3,7 @@ Flask
 itsdangerous
 Jinja2
 MarkupSafe
+pylint
 numpy
 pandas
 python-dateutil
