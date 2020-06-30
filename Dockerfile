@@ -9,9 +9,7 @@ WORKDIR /app
 ## Step 2:
 # Copy source code to working directory
 COPY . app.py /app/
-#COPY . boston_housing_prediction.joblib /model_data
-#COPY . housing.csv /model_data
-
+COPY . nlib /app/
 ## Step 3:
 #Install packages from requirements.txt
 #hadolint ignore=DL3013
@@ -24,5 +22,5 @@ Expose port 80
 
 ## Step 5:
 #Run app.py at container launch
-##CMD ["python", "app.py"]
-RUN python app.py
+CMD ["python", "app.py"]
+
