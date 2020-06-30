@@ -8,8 +8,8 @@ jobs:
     docker:
       # specify the version you desire here
       # use `-browsers` prefix for selenium tests, e.g. `3.6.1-browsers`
-      - image: circleci/python:3.6.7-stretch
-      #- image: circleci/python:3.7.3-stretch
+      #- image: circleci/python:3.6.7-stretch
+      - image: circleci/python:3.7.3-stretch
       
       
       # Specify service dependencies here if necessary
@@ -38,7 +38,6 @@ jobs:
             make install
             sudo wget -O /bin/hadolint https://github.com/hadolint/hadolint/releases/download/v1.16.3/hadolint-Linux-x86_64 &&\
             sudo chmod +x /bin/hadolint
-            sudo apt-get install python3-sklearn python3-sklearn-lib python3-sklearn-doc
             
       - save_cache:
           paths:
