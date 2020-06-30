@@ -38,6 +38,7 @@ jobs:
             make install
             sudo wget -O /bin/hadolint https://github.com/hadolint/hadolint/releases/download/v1.16.3/hadolint-Linux-x86_64 &&\
             sudo chmod +x /bin/hadolint
+            sudo apt-get install python3-sklearn python3-sklearn-lib python3-sklearn-doc
             
       - save_cache:
           paths:

@@ -3,10 +3,14 @@ FROM python:3.6.7-stretch
 ## Step 1:
 # Create a working directory
 WORKDIR /app
+#WORKDIR /model_data
+
 
 ## Step 2:
 # Copy source code to working directory
 COPY . app.py /app/
+#COPY . boston_housing_prediction.joblib /model_data
+#COPY . housing.csv /model_data
 
 ## Step 3:
 #Install packages from requirements.txt
