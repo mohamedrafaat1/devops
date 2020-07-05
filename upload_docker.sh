@@ -1,17 +1,17 @@
 #!/usr/bin/env bash
 # This file tags and uploads an image to Docker Hub
 
-# Assumes that an image is built via `run_docker.sh`
-
 # Step 1:
 # Create dockerpath
 # dockerpath=<your docker ID/path>
- dockerpath=43f267ca162e/sklearn-img
+dockerpath="mohramedrafaat/sklearn-img"
 
 # Step 2:  
 # Authenticate & tag
 echo "Docker ID and Image: $dockerpath"
+sudo docker login
+docker tag sklearn-img mohamedrafaat/sklearn-img:sklearn-img
 
 # Step 3:
-# Push image to a docker repository
-docker push $dockerpath
+#docker push
+docker push mohamedrafaat/sklearn-img:sklearn-img
