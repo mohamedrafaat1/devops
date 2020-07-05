@@ -9,8 +9,9 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <meta name=ProgId content=Word.Document>
 <meta name=Generator content="Microsoft Word 15">
 <meta name=Originator content="Microsoft Word 15">
-<link rel=File-List href="SKlearn_files/filelist.xml">
-<link rel=Edit-Time-Data href="SKlearn_files/editdata.mso">
+<link rel=File-List href="AWSDevAssociate_files/filelist.xml">
+<link rel=Preview href="AWSDevAssociate_files/preview.wmf">
+<link rel=Edit-Time-Data href="AWSDevAssociate_files/editdata.mso">
 <!--[if !mso]>
 <style>
 v\:* {behavior:url(#default#VML);}
@@ -23,16 +24,16 @@ w\:* {behavior:url(#default#VML);}
   <o:Author>Mohamed Rafaat</o:Author>
   <o:LastAuthor>Mohamed Rafaat Abdelrady Mohamed</o:LastAuthor>
   <o:Revision>2</o:Revision>
-  <o:TotalTime>35051</o:TotalTime>
+  <o:TotalTime>35053</o:TotalTime>
   <o:LastPrinted>2019-01-02T16:22:00Z</o:LastPrinted>
-  <o:Created>2020-07-05T02:53:00Z</o:Created>
-  <o:LastSaved>2020-07-05T02:53:00Z</o:LastSaved>
-  <o:Pages>2</o:Pages>
-  <o:Words>275</o:Words>
-  <o:Characters>1568</o:Characters>
+  <o:Created>2020-07-05T03:25:00Z</o:Created>
+  <o:LastSaved>2020-07-05T03:25:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>283</o:Words>
+  <o:Characters>1614</o:Characters>
   <o:Lines>13</o:Lines>
   <o:Paragraphs>3</o:Paragraphs>
-  <o:CharactersWithSpaces>1840</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>1894</o:CharactersWithSpaces>
   <o:Version>15.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -40,10 +41,10 @@ w\:* {behavior:url(#default#VML);}
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
 </xml><![endif]-->
-<link rel=dataStoreItem href="SKlearn_files/item0001.xml"
-target="SKlearn_files/props002.xml">
-<link rel=themeData href="SKlearn_files/themedata.thmx">
-<link rel=colorSchemeMapping href="SKlearn_files/colorschememapping.xml">
+<link rel=dataStoreItem href="AWSDevAssociate_files/item0001.xml"
+target="AWSDevAssociate_files/props002.xml">
+<link rel=themeData href="AWSDevAssociate_files/themedata.thmx">
+<link rel=colorSchemeMapping href="AWSDevAssociate_files/colorschememapping.xml">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
   <w:TrackMoves>false</w:TrackMoves>
@@ -676,13 +677,6 @@ target="SKlearn_files/props002.xml">
 	mso-font-pitch:variable;
 	mso-font-signature:-469750017 -1073732485 9 0 511 0;}
 @font-face
-	{font-family:Consolas;
-	panose-1:2 11 6 9 2 2 4 3 2 4;
-	mso-font-charset:0;
-	mso-generic-font-family:modern;
-	mso-font-pitch:fixed;
-	mso-font-signature:-536869121 64767 1 0 415 0;}
-@font-face
 	{font-family:Arial-BoldMT;
 	panose-1:0 0 0 0 0 0 0 0 0 0;
 	mso-font-charset:0;
@@ -704,6 +698,13 @@ target="SKlearn_files/props002.xml">
 	mso-generic-font-family:roman;
 	mso-font-pitch:variable;
 	mso-font-signature:647 0 0 0 159 0;}
+@font-face
+	{font-family:Consolas;
+	panose-1:2 11 6 9 2 2 4 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:-536869121 64767 1 0 415 0;}
  /* Style Definitions */
  p.MsoNormal, li.MsoNormal, div.MsoNormal
 	{mso-style-unhide:no;
@@ -1029,8 +1030,7 @@ h3
 	text-indent:-9.0pt;
 	mso-pagination:widow-orphan;
 	mso-outline-level:3;
-	mso-list:l47 level1 lfo2;
-	font-size:16.0pt;
+	font-size:18.0pt;
 	font-family:"Calibri",sans-serif;
 	mso-ascii-font-family:Calibri;
 	mso-ascii-theme-font:minor-latin;
@@ -1058,8 +1058,7 @@ h3.CxSpFirst
 	text-indent:-9.0pt;
 	mso-pagination:widow-orphan;
 	mso-outline-level:3;
-	mso-list:l47 level1 lfo2;
-	font-size:16.0pt;
+	font-size:18.0pt;
 	font-family:"Calibri",sans-serif;
 	mso-ascii-font-family:Calibri;
 	mso-ascii-theme-font:minor-latin;
@@ -1087,8 +1086,7 @@ h3.CxSpMiddle
 	text-indent:-9.0pt;
 	mso-pagination:widow-orphan;
 	mso-outline-level:3;
-	mso-list:l47 level1 lfo2;
-	font-size:16.0pt;
+	font-size:18.0pt;
 	font-family:"Calibri",sans-serif;
 	mso-ascii-font-family:Calibri;
 	mso-ascii-theme-font:minor-latin;
@@ -1116,8 +1114,7 @@ h3.CxSpLast
 	text-indent:-9.0pt;
 	mso-pagination:widow-orphan;
 	mso-outline-level:3;
-	mso-list:l47 level1 lfo2;
-	font-size:16.0pt;
+	font-size:18.0pt;
 	font-family:"Calibri",sans-serif;
 	mso-ascii-font-family:Calibri;
 	mso-ascii-theme-font:minor-latin;
@@ -1247,7 +1244,6 @@ h5
 	text-indent:-9.0pt;
 	mso-pagination:widow-orphan;
 	mso-outline-level:5;
-	mso-list:l47 level1 lfo2;
 	font-size:14.0pt;
 	font-family:"Calibri",sans-serif;
 	mso-ascii-font-family:Calibri;
@@ -1274,7 +1270,6 @@ h5.CxSpFirst
 	text-indent:-9.0pt;
 	mso-pagination:widow-orphan;
 	mso-outline-level:5;
-	mso-list:l47 level1 lfo2;
 	font-size:14.0pt;
 	font-family:"Calibri",sans-serif;
 	mso-ascii-font-family:Calibri;
@@ -1301,7 +1296,6 @@ h5.CxSpMiddle
 	text-indent:-9.0pt;
 	mso-pagination:widow-orphan;
 	mso-outline-level:5;
-	mso-list:l47 level1 lfo2;
 	font-size:14.0pt;
 	font-family:"Calibri",sans-serif;
 	mso-ascii-font-family:Calibri;
@@ -1328,7 +1322,6 @@ h5.CxSpLast
 	text-indent:-9.0pt;
 	mso-pagination:widow-orphan;
 	mso-outline-level:5;
-	mso-list:l47 level1 lfo2;
 	font-size:14.0pt;
 	font-family:"Calibri",sans-serif;
 	mso-ascii-font-family:Calibri;
@@ -3996,8 +3989,8 @@ span.Heading3Char
 	mso-style-unhide:no;
 	mso-style-locked:yes;
 	mso-style-link:"Heading 3\,3";
-	mso-ansi-font-size:16.0pt;
-	mso-bidi-font-size:16.0pt;
+	mso-ansi-font-size:18.0pt;
+	mso-bidi-font-size:18.0pt;
 	font-family:"Calibri",sans-serif;
 	mso-bidi-font-family:Calibri;
 	mso-bidi-theme-font:minor-latin;
@@ -4254,9 +4247,13 @@ span.z-BottomofFormChar
 span.ng-binding
 	{mso-style-name:ng-binding;
 	mso-style-unhide:no;}
+span.stylesbold32xmu
+	{mso-style-name:styles__bold___32xmu;
+	mso-style-unhide:no;}
 .MsoChpDefault
 	{mso-style-type:export-only;
 	mso-default-props:yes;
+	font-family:"Calibri",sans-serif;
 	mso-ascii-font-family:Calibri;
 	mso-ascii-theme-font:minor-latin;
 	mso-fareast-font-family:Calibri;
@@ -4271,15 +4268,18 @@ span.ng-binding
 	line-height:115%;}
  /* Page Definitions */
  @page
-	{mso-footnote-separator:url("SKlearn_files/header.htm") fs;
-	mso-footnote-continuation-separator:url("SKlearn_files/header.htm") fcs;
-	mso-endnote-separator:url("SKlearn_files/header.htm") es;
-	mso-endnote-continuation-separator:url("SKlearn_files/header.htm") ecs;}
+	{mso-footnote-separator:url("AWSDevAssociate_files/header.htm") fs;
+	mso-footnote-continuation-separator:url("AWSDevAssociate_files/header.htm") fcs;
+	mso-endnote-separator:url("AWSDevAssociate_files/header.htm") es;
+	mso-endnote-continuation-separator:url("AWSDevAssociate_files/header.htm") ecs;}
 @page WordSection1
 	{size:8.5in 11.0in;
 	margin:1.0in 1.0in 1.0in 1.0in;
 	mso-header-margin:.5in;
 	mso-footer-margin:.5in;
+	border:solid windowtext 1.0pt;
+	mso-border-alt:solid windowtext .5pt;
+	padding:24.0pt 24.0pt 24.0pt 24.0pt;
 	mso-paper-source:0;}
 div.WordSection1
 	{page:WordSection1;}
@@ -7868,7 +7868,6 @@ div.WordSection1
 	mso-list-template-ids:1530456756 -1364272628 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
 @list l47:level1
 	{mso-level-number-format:bullet;
-	mso-level-style-link:"Heading 3";
 	mso-level-text:\F0A7;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
@@ -9509,42 +9508,6 @@ div.WordSection1
 @list l68
 	{mso-list-id:1843007376;
 	mso-list-template-ids:-1733230848;}
-@list l68:level1
-	{mso-level-tab-stop:.5in;
-	mso-level-number-position:left;
-	text-indent:-.25in;}
-@list l68:level2
-	{mso-level-tab-stop:1.0in;
-	mso-level-number-position:left;
-	text-indent:-.25in;}
-@list l68:level3
-	{mso-level-tab-stop:1.5in;
-	mso-level-number-position:left;
-	text-indent:-.25in;}
-@list l68:level4
-	{mso-level-tab-stop:2.0in;
-	mso-level-number-position:left;
-	text-indent:-.25in;}
-@list l68:level5
-	{mso-level-tab-stop:2.5in;
-	mso-level-number-position:left;
-	text-indent:-.25in;}
-@list l68:level6
-	{mso-level-tab-stop:3.0in;
-	mso-level-number-position:left;
-	text-indent:-.25in;}
-@list l68:level7
-	{mso-level-tab-stop:3.5in;
-	mso-level-number-position:left;
-	text-indent:-.25in;}
-@list l68:level8
-	{mso-level-tab-stop:4.0in;
-	mso-level-number-position:left;
-	text-indent:-.25in;}
-@list l68:level9
-	{mso-level-tab-stop:4.5in;
-	mso-level-number-position:left;
-	text-indent:-.25in;}
 @list l69
 	{mso-list-id:1868104755;
 	mso-list-type:hybrid;
@@ -10480,263 +10443,304 @@ table.PlainTable41OddRow
  </o:shapelayout></xml><![endif]-->
 </head>
 
-<body lang=EN-US link=blue vlink=purple style='tab-interval:.5in'>
+<body bgcolor="#DAEEF3" lang=EN-US link=blue vlink=purple style='tab-interval:
+.5in'>
 
 <div class=WordSection1>
 
 <p class=MsoNormalCxSpFirst style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
-auto;mso-add-space:auto;text-indent:0in;line-height:normal;mso-outline-level:
-1;mso-list:none'><span style='font-size:24.0pt;font-family:"Times New Roman",serif;
-mso-fareast-font-family:"Times New Roman";mso-font-kerning:18.0pt'><o:p>&nbsp;</o:p></span></p>
+auto;margin-left:0in;mso-add-space:auto;text-indent:0in;line-height:normal;
+mso-outline-level:1;mso-list:none'><span style='font-size:24.0pt;font-family:
+"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";mso-font-kerning:
+18.0pt'><o:p>&nbsp;</o:p></span></p>
 
-<p class=MsoNormalCxSpLast style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
-auto;mso-add-space:auto;text-indent:0in;line-height:normal;mso-outline-level:
-1;mso-list:none'><span style='font-size:24.0pt;font-family:"Times New Roman",serif;
-mso-fareast-font-family:"Times New Roman";mso-font-kerning:18.0pt'><o:p>&nbsp;</o:p></span></p>
+<p class=MsoNormalCxSpLast style='mso-list:none'><o:p>&nbsp;</o:p></p>
 
-<h1><span style='font-size:18.0pt;line-height:115%'>SKlearn Project</span><span
-style='font-size:19.0pt;line-height:115%'><o:p></o:p></span></h1>
+<table class=MsoTableGrid border=0 cellspacing=0 cellpadding=0
+ style='margin-left:210.2pt;border-collapse:collapse;border:none;mso-yfti-tbllook:
+ 1184;mso-padding-alt:0in 5.4pt 0in 5.4pt;mso-border-insideh:none;mso-border-insidev:
+ none'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=380 valign=top style='width:284.85pt;padding:0in 5.4pt 0in 5.4pt'>
+  <h1 style='margin-bottom:0in;margin-bottom:.0001pt;mso-add-space:auto;
+  line-height:normal;mso-outline-level:1'>SKlearn Project<o:p></o:p></h1>
+  <p class=MsoNormalCxSpFirst style='margin:0in;margin-bottom:.0001pt;
+  mso-add-space:auto;text-indent:0in;line-height:normal;mso-list:none'><span
+  style='mso-no-proof:yes'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1;mso-yfti-lastrow:yes'>
+  <td width=380 valign=top style='width:284.85pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormalCxSpMiddle style='margin:0in;margin-bottom:.0001pt;
+  mso-add-space:auto;text-indent:0in;line-height:normal;mso-list:none'><span
+  style='mso-no-proof:yes'><v:shapetype id="_x0000_t75" coordsize="21600,21600"
+   o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe" filled="f"
+   stroked="f">
+   <v:stroke joinstyle="miter"/>
+   <v:formulas>
+    <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+    <v:f eqn="sum @0 1 0"/>
+    <v:f eqn="sum 0 0 @1"/>
+    <v:f eqn="prod @2 1 2"/>
+    <v:f eqn="prod @3 21600 pixelWidth"/>
+    <v:f eqn="prod @3 21600 pixelHeight"/>
+    <v:f eqn="sum @0 0 1"/>
+    <v:f eqn="prod @6 1 2"/>
+    <v:f eqn="prod @7 21600 pixelWidth"/>
+    <v:f eqn="sum @8 21600 0"/>
+    <v:f eqn="prod @7 21600 pixelHeight"/>
+    <v:f eqn="sum @10 21600 0"/>
+   </v:formulas>
+   <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+   <o:lock v:ext="edit" aspectratio="t"/>
+  </v:shapetype><v:shape id="Picture_x0020_1" o:spid="_x0000_i1025" type="#_x0000_t75"
+   style='width:273.75pt;height:173.25pt;visibility:visible;mso-wrap-style:square'>
+   <v:imagedata src="AWSDevAssociate_files/image001.png" o:title=""/>
+  </v:shape></span></p>
+  </td>
+ </tr>
+</table>
 
-<p class=MsoNormalCxSpFirst style='text-indent:0in;mso-list:none'><o:p>&nbsp;</o:p></p>
+<p class=MsoNormalCxSpMiddle style='margin-left:225.0pt;mso-add-space:auto;
+mso-list:none'><o:p>&nbsp;</o:p></p>
 
-<p class=MsoNormalCxSpMiddle style='mso-list:l0 level1 lfo1'><![if !supportLists]><span
-style='font-size:11.0pt;line-height:115%;font-family:Symbol;mso-fareast-font-family:
-Symbol;mso-bidi-font-family:Symbol;font-weight:normal;mso-bidi-font-weight:
-bold'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
-</span></span></span><![endif]><span dir=LTR></span>SKlearn is a Machine
-Learning Microservice application that predict housing prices through API calls
-including several features, such as average rooms in a home and data about
-highway access, teacher-to-pupil ratios, and so on. </p>
-
-<p class=MsoNormalCxSpMiddle style='text-indent:0in;mso-list:none'><o:p>&nbsp;</o:p></p>
-
-<p class=MsoNormalCxSpMiddle style='margin-left:1.5in;mso-add-space:auto;
-text-indent:0in;mso-list:none'><span style='mso-no-proof:yes'><v:shapetype
- id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
- path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
- <v:stroke joinstyle="miter"/>
- <v:formulas>
-  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
-  <v:f eqn="sum @0 1 0"/>
-  <v:f eqn="sum 0 0 @1"/>
-  <v:f eqn="prod @2 1 2"/>
-  <v:f eqn="prod @3 21600 pixelWidth"/>
-  <v:f eqn="prod @3 21600 pixelHeight"/>
-  <v:f eqn="sum @0 0 1"/>
-  <v:f eqn="prod @6 1 2"/>
-  <v:f eqn="prod @7 21600 pixelWidth"/>
-  <v:f eqn="sum @8 21600 0"/>
-  <v:f eqn="prod @7 21600 pixelHeight"/>
-  <v:f eqn="sum @10 21600 0"/>
- </v:formulas>
- <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
- <o:lock v:ext="edit" aspectratio="t"/>
-</v:shapetype><v:shape id="Picture_x0020_1" o:spid="_x0000_i1025" type="#_x0000_t75"
- alt="https://video.udacity-data.com/topher/2019/May/5cda07f2_screen-shot-2019-05-13-at-5.12.23-pm/screen-shot-2019-05-13-at-5.12.23-pm.png"
- style='width:288.75pt;height:182.25pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="SKlearn_files/image001.png" o:title="screen-shot-2019-05-13-at-5.12.23-pm"/>
-</v:shape></span><o:p></o:p></p>
-
-<p class=MsoNormalCxSpLast style='text-indent:0in;mso-list:none'><span
-style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
-
-<h3 style='mso-list:l47 level1 lfo2'><![if !supportLists]><span
-style='font-size:12.0pt;font-family:Wingdings;mso-fareast-font-family:Wingdings;
-mso-bidi-font-family:Wingdings;font-weight:normal;mso-bidi-font-weight:bold'><span
-style='mso-list:Ignore'>§<span style='font:7.0pt "Times New Roman"'> </span></span></span><![endif]><span
-dir=LTR></span>Project instructions:</h3>
-
-<p class=MsoNormal style='mso-list:l0 level1 lfo1'><![if !supportLists]><span
-style='font-size:11.0pt;line-height:115%;font-family:Symbol;mso-fareast-font-family:
-Symbol;mso-bidi-font-family:Symbol;font-weight:normal;mso-bidi-font-weight:
-bold'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
-</span></span></span><![endif]><span dir=LTR></span>Note: This project is
-provided using AWS cloud9 and Ubuntu 18 EC2 instance.</p>
-
-<p class=MsoHeading8 style='mso-list:l58 level1 lfo59'><![if !supportLists]><span
-style='color:black;mso-style-style3d-lightrigtype:13;mso-style-style3d-lightrigdirection:
-2;mso-style-style3d-lightrigrotation-anglatitude:0;mso-style-style3d-lightrigrotation-anglongitude:
-0;mso-style-style3d-lightrigrotation-angrevolution:0'><span style='mso-list:
-Ignore'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span dir=LTR></span>Create a project working
-directories using <span style='font-size:12.0pt;line-height:115%'>mkdir </span>command.</p>
-
-<p class=MsoHeading8 style='mso-list:l58 level1 lfo59'><![if !supportLists]><span
-style='font-size:12.0pt;line-height:115%;color:black;mso-style-style3d-lightrigtype:
-13;mso-style-style3d-lightrigdirection:2;mso-style-style3d-lightrigrotation-anglatitude:
-0;mso-style-style3d-lightrigrotation-anglongitude:0;mso-style-style3d-lightrigrotation-angrevolution:
-0'><span style='mso-list:Ignore'>2.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span dir=LTR></span>Create python3 virtual environment
-using <span style='font-size:12.0pt;line-height:115%'>python3 -m venv /path/to/new/virtual/environment<o:p></o:p></span></p>
-
-<p class=MsoHeading8 style='mso-list:l58 level1 lfo59'><![if !supportLists]><span
-style='color:black;mso-style-style3d-lightrigtype:13;mso-style-style3d-lightrigdirection:
-2;mso-style-style3d-lightrigrotation-anglatitude:0;mso-style-style3d-lightrigrotation-anglongitude:
-0;mso-style-style3d-lightrigrotation-angrevolution:0'><span style='mso-list:
-Ignore'>3.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span dir=LTR></span><span
-style='mso-spacerun:yes'> </span>Clone project files from Github in another directory
-using <span style='font-size:12.0pt;line-height:115%'>git clone url.git through
-ssh or HTTPs</span></p>
-
-<p class=MsoHeading8 style='mso-list:l58 level1 lfo59'><![if !supportLists]><span
-style='font-size:12.0pt;line-height:115%;color:black;mso-style-style3d-lightrigtype:
-13;mso-style-style3d-lightrigdirection:2;mso-style-style3d-lightrigrotation-anglatitude:
-0;mso-style-style3d-lightrigrotation-anglongitude:0;mso-style-style3d-lightrigrotation-angrevolution:
-0'><span style='mso-list:Ignore'>4.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span dir=LTR></span>Modifying bashrc file to
-create alias command for virtual environment activation using <span
-style='font-size:12.0pt;line-height:115%'>alias devops=&quot;cd
-/home/ubuntu/environment/devops/ &amp;&amp; source ~/.devops/bin/activate&quot;<o:p></o:p></span></p>
-
-<p class=MsoHeading8 style='mso-list:l58 level1 lfo59'><![if !supportLists]><span
-style='font-size:12.0pt;line-height:115%;color:black;mso-style-style3d-lightrigtype:
-13;mso-style-style3d-lightrigdirection:2;mso-style-style3d-lightrigrotation-anglatitude:
-0;mso-style-style3d-lightrigrotation-anglongitude:0;mso-style-style3d-lightrigrotation-angrevolution:
-0'><span style='mso-list:Ignore'>5.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span dir=LTR></span>Copy all project files from
-downloaded repo to the project working directory.<span style='font-size:12.0pt;
-line-height:115%'><o:p></o:p></span></p>
-
-<p class=MsoHeading8 style='mso-list:l58 level1 lfo59'><![if !supportLists]><span
-style='color:black;mso-style-style3d-lightrigtype:13;mso-style-style3d-lightrigdirection:
-2;mso-style-style3d-lightrigrotation-anglatitude:0;mso-style-style3d-lightrigrotation-anglongitude:
-0;mso-style-style3d-lightrigrotation-angrevolution:0'><span style='mso-list:
-Ignore'>6.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span dir=LTR></span>Activate virtual
-environment.</p>
-
-<p class=MsoHeading8 style='mso-list:l58 level1 lfo59'><![if !supportLists]><span
-style='color:black;mso-style-style3d-lightrigtype:13;mso-style-style3d-lightrigdirection:
-2;mso-style-style3d-lightrigrotation-anglatitude:0;mso-style-style3d-lightrigrotation-anglongitude:
-0;mso-style-style3d-lightrigrotation-angrevolution:0'><span style='mso-list:
-Ignore'>7.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span dir=LTR></span>Install dependencies through
-<span style='font-size:12.0pt;line-height:115%'>make install </span>command.</p>
-
-<p class=MsoHeading8 style='mso-list:l58 level1 lfo59'><![if !supportLists]><span
-style='color:black;mso-style-style3d-lightrigtype:13;mso-style-style3d-lightrigdirection:
-2;mso-style-style3d-lightrigrotation-anglatitude:0;mso-style-style3d-lightrigrotation-anglongitude:
-0;mso-style-style3d-lightrigrotation-angrevolution:0'><span style='mso-list:
-Ignore'>8.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span dir=LTR></span>Linting code through <span
-style='font-size:12.0pt;line-height:115%'>make lint.</span></p>
-
-<p class=MsoHeading8 style='mso-list:l58 level1 lfo59'><![if !supportLists]><span
-style='color:black;mso-style-style3d-lightrigtype:13;mso-style-style3d-lightrigdirection:
-2;mso-style-style3d-lightrigrotation-anglatitude:0;mso-style-style3d-lightrigrotation-anglongitude:
-0;mso-style-style3d-lightrigrotation-angrevolution:0'><span style='mso-list:
-Ignore'>9.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span dir=LTR></span>Running docker script.</p>
-
-<p class=MsoHeading8 style='mso-list:l58 level1 lfo59'><![if !supportLists]><span
-style='color:black;mso-style-style3d-lightrigtype:13;mso-style-style3d-lightrigdirection:
-2;mso-style-style3d-lightrigrotation-anglatitude:0;mso-style-style3d-lightrigrotation-anglongitude:
-0;mso-style-style3d-lightrigrotation-angrevolution:0'><span style='mso-list:
-Ignore'>10.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span><![endif]><span
-dir=LTR></span>Build docker from local image.</p>
-
-<p class=MsoHeading8 style='mso-list:l58 level1 lfo59'><![if !supportLists]><span
-style='color:black;mso-style-style3d-lightrigtype:13;mso-style-style3d-lightrigdirection:
-2;mso-style-style3d-lightrigrotation-anglatitude:0;mso-style-style3d-lightrigrotation-anglongitude:
-0;mso-style-style3d-lightrigrotation-angrevolution:0'><span style='mso-list:
-Ignore'>11.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span><![endif]><span
-dir=LTR></span>Running make prediction script.</p>
-
-<p class=MsoHeading8 style='mso-list:l58 level1 lfo59'><![if !supportLists]><span
-style='color:black;mso-style-style3d-lightrigtype:13;mso-style-style3d-lightrigdirection:
-2;mso-style-style3d-lightrigrotation-anglatitude:0;mso-style-style3d-lightrigrotation-anglongitude:
-0;mso-style-style3d-lightrigrotation-angrevolution:0'><span style='mso-list:
-Ignore'>12.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span><![endif]><span
-dir=LTR></span>Upload docker image to Docker Hub repo using upload_docker
-script.</p>
-
-<p class=MsoHeading8 style='mso-list:l58 level1 lfo59'><![if !supportLists]><span
-style='color:black;mso-style-style3d-lightrigtype:13;mso-style-style3d-lightrigdirection:
-2;mso-style-style3d-lightrigrotation-anglatitude:0;mso-style-style3d-lightrigrotation-anglongitude:
-0;mso-style-style3d-lightrigrotation-angrevolution:0'><span style='mso-list:
-Ignore'>13.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span><![endif]><span
-dir=LTR></span>Install kubectl and minikube to run kubernetes locally.</p>
-
-<p class=MsoHeading8 style='mso-list:l58 level1 lfo59'><![if !supportLists]><span
-style='color:black;mso-style-style3d-lightrigtype:13;mso-style-style3d-lightrigdirection:
-2;mso-style-style3d-lightrigrotation-anglatitude:0;mso-style-style3d-lightrigrotation-anglongitude:
-0;mso-style-style3d-lightrigrotation-angrevolution:0'><span style='mso-list:
-Ignore'>14.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span><![endif]><span
-dir=LTR></span>Run run_kubernetes script.</p>
-
-<p class=MsoHeading8 style='mso-list:l58 level1 lfo59'><![if !supportLists]><span
-style='color:black;mso-style-style3d-lightrigtype:13;mso-style-style3d-lightrigdirection:
-2;mso-style-style3d-lightrigrotation-anglatitude:0;mso-style-style3d-lightrigrotation-anglongitude:
-0;mso-style-style3d-lightrigrotation-angrevolution:0'><span style='mso-list:
-Ignore'>15.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span><![endif]><span
-dir=LTR></span>Run prediction script to get result for local pod.</p>
-
-<p class=MsoHeading8 style='mso-list:l58 level1 lfo59'><![if !supportLists]><span
-style='color:black;mso-style-style3d-lightrigtype:13;mso-style-style3d-lightrigdirection:
-2;mso-style-style3d-lightrigrotation-anglatitude:0;mso-style-style3d-lightrigrotation-anglongitude:
-0;mso-style-style3d-lightrigrotation-angrevolution:0'><span style='mso-list:
-Ignore'>16.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span><![endif]><span
-dir=LTR></span>Configuring circleci to test project code.</p>
-
-<p class=MsoHeading8 style='text-indent:0in;mso-list:none'><o:p>&nbsp;</o:p></p>
-
-<h3 style='mso-list:l47 level1 lfo2'><![if !supportLists]><span
-style='font-size:12.0pt;font-family:Wingdings;mso-fareast-font-family:Wingdings;
-mso-bidi-font-family:Wingdings;font-weight:normal;mso-bidi-font-weight:bold'><span
-style='mso-list:Ignore'>§<span style='font:7.0pt "Times New Roman"'> </span></span></span><![endif]><span
-dir=LTR></span>GitHub repo files:<span style='mso-spacerun:yes'>  </span>git@github.com:mohamedrafaat1/devops.git</h3>
-
-<p class=MsoNormalCxSpFirst style='mso-list:l0 level1 lfo1'><![if !supportLists]><span
-style='font-size:11.0pt;line-height:115%;font-family:Symbol;mso-fareast-font-family:
-Symbol;mso-bidi-font-family:Symbol;font-weight:normal;mso-bidi-font-weight:
-bold'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
-</span></span></span><![endif]><span dir=LTR></span>Dockerfile: including
-required info to build docker.</p>
-
-<p class=MsoNormalCxSpMiddle style='mso-list:l0 level1 lfo1'><![if !supportLists]><span
-style='font-size:11.0pt;line-height:115%;font-family:Symbol;mso-fareast-font-family:
-Symbol;mso-bidi-font-family:Symbol;font-weight:normal;mso-bidi-font-weight:
-bold'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
-</span></span></span><![endif]><span dir=LTR></span>Makefile: to install all
-requirement packages and create virtual environment</p>
-
-<p class=MsoNormalCxSpMiddle style='mso-list:l0 level1 lfo1'><![if !supportLists]><span
-style='font-size:11.0pt;line-height:115%;font-family:Symbol;mso-fareast-font-family:
-Symbol;mso-bidi-font-family:Symbol;font-weight:normal;mso-bidi-font-weight:
-bold'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
-</span></span></span><![endif]><span dir=LTR></span>Requirements: <span
-style='mso-spacerun:yes'> </span>include all required packages to be installed
-automatically.</p>
-
-<p class=MsoNormalCxSpMiddle style='mso-list:l0 level1 lfo1'><![if !supportLists]><span
-style='font-size:11.0pt;line-height:115%;font-family:Symbol;mso-fareast-font-family:
-Symbol;mso-bidi-font-family:Symbol;font-weight:normal;mso-bidi-font-weight:
-bold'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
-</span></span></span><![endif]><span dir=LTR></span>Run_docker: its descriptive
-script to run docker.</p>
-
-<p class=MsoNormalCxSpMiddle style='mso-list:l0 level1 lfo1'><![if !supportLists]><span
-style='font-size:11.0pt;line-height:115%;font-family:Symbol;mso-fareast-font-family:
-Symbol;mso-bidi-font-family:Symbol;font-weight:normal;mso-bidi-font-weight:
-bold'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
-</span></span></span><![endif]><span dir=LTR></span>Run_kubernetes: its
-descriptive script to run kubernetes.<o:p></o:p></p>
-
-<p class=MsoNormalCxSpMiddle style='mso-list:l0 level1 lfo1'><![if !supportLists]><span
-style='font-size:11.0pt;line-height:115%;font-family:Symbol;mso-fareast-font-family:
-Symbol;mso-bidi-font-family:Symbol;font-weight:normal;mso-bidi-font-weight:
-bold'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
-</span></span></span><![endif]><span dir=LTR></span>Upload_docker: to upload
-local docker image to docker hub repo.</p>
+<p class=MsoNormalCxSpMiddle style='margin-left:189.0pt;mso-add-space:auto;
+mso-list:none'><o:p>&nbsp;</o:p></p>
 
 <p class=MsoNormalCxSpLast style='mso-list:l0 level1 lfo1'><![if !supportLists]><span
 style='font-size:11.0pt;line-height:115%;font-family:Symbol;mso-fareast-font-family:
 Symbol;mso-bidi-font-family:Symbol;font-weight:normal;mso-bidi-font-weight:
 bold'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
-</span></span></span><![endif]><span dir=LTR></span>Config.yml: yaml
-configuration file that include all instructions to test this project through
-circleci website. </p>
+</span></span></span><![endif]><span dir=LTR></span><span style='font-size:
+14.0pt;line-height:115%'>SKlearn is a Machine Learning Microservice application
+that predict housing prices through API calls including several features, such
+as average rooms in a home and data about highway access, teacher-to-pupil
+ratios, and so on. <o:p></o:p></span></p>
+
+<h3>Project instructions:</h3>
+
+<p class=MsoNormal style='mso-list:l0 level1 lfo1'><![if !supportLists]><span
+style='font-size:11.0pt;line-height:115%;font-family:Symbol;mso-fareast-font-family:
+Symbol;mso-bidi-font-family:Symbol;font-weight:normal;mso-bidi-font-weight:
+bold'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
+</span></span></span><![endif]><span dir=LTR></span><span style='font-size:
+14.0pt;line-height:115%'>Note: This project is provided using AWS cloud9 and
+Ubuntu 18 EC2 instance.<o:p></o:p></span></p>
+
+<p class=MsoHeading8 style='mso-list:l58 level1 lfo59'><![if !supportLists]><span
+style='font-size:12.0pt;line-height:115%;color:black;mso-style-style3d-lightrigtype:
+13;mso-style-style3d-lightrigdirection:2;mso-style-style3d-lightrigrotation-anglatitude:
+0;mso-style-style3d-lightrigrotation-anglongitude:0;mso-style-style3d-lightrigrotation-angrevolution:
+0'><span style='mso-list:Ignore'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span dir=LTR></span><span style='font-size:
+12.0pt;line-height:115%'>Create a project working directories using </span><span
+style='font-size:14.0pt;line-height:115%'>mkdir </span><span style='font-size:
+12.0pt;line-height:115%'>command.<o:p></o:p></span></p>
+
+<p class=MsoHeading8 style='mso-list:l58 level1 lfo59'><![if !supportLists]><span
+style='font-size:14.0pt;line-height:115%;color:black;mso-style-style3d-lightrigtype:
+13;mso-style-style3d-lightrigdirection:2;mso-style-style3d-lightrigrotation-anglatitude:
+0;mso-style-style3d-lightrigrotation-anglongitude:0;mso-style-style3d-lightrigrotation-angrevolution:
+0'><span style='mso-list:Ignore'>2.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span dir=LTR></span><span style='font-size:
+12.0pt;line-height:115%'>Create python3 virtual environment using </span><span
+style='font-size:14.0pt;line-height:115%'>python3 -m venv
+/path/to/new/virtual/environment<o:p></o:p></span></p>
+
+<p class=MsoHeading8 style='mso-list:l58 level1 lfo59'><![if !supportLists]><span
+style='font-size:12.0pt;line-height:115%;color:black;mso-style-style3d-lightrigtype:
+13;mso-style-style3d-lightrigdirection:2;mso-style-style3d-lightrigrotation-anglatitude:
+0;mso-style-style3d-lightrigrotation-anglongitude:0;mso-style-style3d-lightrigrotation-angrevolution:
+0'><span style='mso-list:Ignore'>3.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span dir=LTR></span><span style='font-size:
+12.0pt;line-height:115%'><span style='mso-spacerun:yes'> </span>Clone project
+files from Github in another directory using </span><span style='font-size:
+14.0pt;line-height:115%'>git clone url.git through ssh or HTTPs</span><span
+style='font-size:12.0pt;line-height:115%'><o:p></o:p></span></p>
+
+<p class=MsoHeading8 style='mso-list:l58 level1 lfo59'><![if !supportLists]><span
+style='font-size:14.0pt;line-height:115%;color:black;mso-style-style3d-lightrigtype:
+13;mso-style-style3d-lightrigdirection:2;mso-style-style3d-lightrigrotation-anglatitude:
+0;mso-style-style3d-lightrigrotation-anglongitude:0;mso-style-style3d-lightrigrotation-angrevolution:
+0'><span style='mso-list:Ignore'>4.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span dir=LTR></span><span style='font-size:
+12.0pt;line-height:115%'>Modifying bashrc file to create alias command for
+virtual environment activation using </span><span style='font-size:14.0pt;
+line-height:115%'>alias devops=&quot;cd /home/ubuntu/environment/devops/
+&amp;&amp; source ~/.devops/bin/activate&quot;<o:p></o:p></span></p>
+
+<p class=MsoHeading8 style='mso-list:l58 level1 lfo59'><![if !supportLists]><span
+style='font-size:14.0pt;line-height:115%;color:black;mso-style-style3d-lightrigtype:
+13;mso-style-style3d-lightrigdirection:2;mso-style-style3d-lightrigrotation-anglatitude:
+0;mso-style-style3d-lightrigrotation-anglongitude:0;mso-style-style3d-lightrigrotation-angrevolution:
+0'><span style='mso-list:Ignore'>5.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span dir=LTR></span><span style='font-size:
+12.0pt;line-height:115%'>Copy all project files from downloaded repo to the
+project working directory.</span><span style='font-size:14.0pt;line-height:
+115%'><o:p></o:p></span></p>
+
+<p class=MsoHeading8 style='mso-list:l58 level1 lfo59'><![if !supportLists]><span
+style='font-size:12.0pt;line-height:115%;color:black;mso-style-style3d-lightrigtype:
+13;mso-style-style3d-lightrigdirection:2;mso-style-style3d-lightrigrotation-anglatitude:
+0;mso-style-style3d-lightrigrotation-anglongitude:0;mso-style-style3d-lightrigrotation-angrevolution:
+0'><span style='mso-list:Ignore'>6.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span dir=LTR></span><span style='font-size:
+12.0pt;line-height:115%'>Activate virtual environment.<o:p></o:p></span></p>
+
+<p class=MsoHeading8 style='mso-list:l58 level1 lfo59'><![if !supportLists]><span
+style='font-size:12.0pt;line-height:115%;color:black;mso-style-style3d-lightrigtype:
+13;mso-style-style3d-lightrigdirection:2;mso-style-style3d-lightrigrotation-anglatitude:
+0;mso-style-style3d-lightrigrotation-anglongitude:0;mso-style-style3d-lightrigrotation-angrevolution:
+0'><span style='mso-list:Ignore'>7.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span dir=LTR></span><span style='font-size:
+12.0pt;line-height:115%'>Install dependencies through </span><span
+style='font-size:14.0pt;line-height:115%'>make install </span><span
+style='font-size:12.0pt;line-height:115%'>command.<o:p></o:p></span></p>
+
+<p class=MsoHeading8 style='mso-list:l58 level1 lfo59'><![if !supportLists]><span
+style='font-size:12.0pt;line-height:115%;color:black;mso-style-style3d-lightrigtype:
+13;mso-style-style3d-lightrigdirection:2;mso-style-style3d-lightrigrotation-anglatitude:
+0;mso-style-style3d-lightrigrotation-anglongitude:0;mso-style-style3d-lightrigrotation-angrevolution:
+0'><span style='mso-list:Ignore'>8.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span dir=LTR></span><span style='font-size:
+12.0pt;line-height:115%'>Linting code through </span><span style='font-size:
+14.0pt;line-height:115%'>make lint.</span><span style='font-size:12.0pt;
+line-height:115%'><o:p></o:p></span></p>
+
+<p class=MsoHeading8 style='mso-list:l58 level1 lfo59'><![if !supportLists]><span
+style='font-size:12.0pt;line-height:115%;color:black;mso-style-style3d-lightrigtype:
+13;mso-style-style3d-lightrigdirection:2;mso-style-style3d-lightrigrotation-anglatitude:
+0;mso-style-style3d-lightrigrotation-anglongitude:0;mso-style-style3d-lightrigrotation-angrevolution:
+0'><span style='mso-list:Ignore'>9.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span dir=LTR></span><span style='font-size:
+12.0pt;line-height:115%'>Running docker script.<o:p></o:p></span></p>
+
+<p class=MsoHeading8 style='mso-list:l58 level1 lfo59'><![if !supportLists]><span
+style='font-size:12.0pt;line-height:115%;color:black;mso-style-style3d-lightrigtype:
+13;mso-style-style3d-lightrigdirection:2;mso-style-style3d-lightrigrotation-anglatitude:
+0;mso-style-style3d-lightrigrotation-anglongitude:0;mso-style-style3d-lightrigrotation-angrevolution:
+0'><span style='mso-list:Ignore'>10.<span style='font:7.0pt "Times New Roman"'>&nbsp;
+</span></span></span><![endif]><span dir=LTR></span><span style='font-size:
+12.0pt;line-height:115%'>Build docker from local image.<o:p></o:p></span></p>
+
+<p class=MsoHeading8 style='mso-list:l58 level1 lfo59'><![if !supportLists]><span
+style='font-size:12.0pt;line-height:115%;color:black;mso-style-style3d-lightrigtype:
+13;mso-style-style3d-lightrigdirection:2;mso-style-style3d-lightrigrotation-anglatitude:
+0;mso-style-style3d-lightrigrotation-anglongitude:0;mso-style-style3d-lightrigrotation-angrevolution:
+0'><span style='mso-list:Ignore'>11.<span style='font:7.0pt "Times New Roman"'>&nbsp;
+</span></span></span><![endif]><span dir=LTR></span><span style='font-size:
+12.0pt;line-height:115%'>Running make prediction script.<o:p></o:p></span></p>
+
+<p class=MsoHeading8 style='mso-list:l58 level1 lfo59'><![if !supportLists]><span
+style='font-size:12.0pt;line-height:115%;color:black;mso-style-style3d-lightrigtype:
+13;mso-style-style3d-lightrigdirection:2;mso-style-style3d-lightrigrotation-anglatitude:
+0;mso-style-style3d-lightrigrotation-anglongitude:0;mso-style-style3d-lightrigrotation-angrevolution:
+0'><span style='mso-list:Ignore'>12.<span style='font:7.0pt "Times New Roman"'>&nbsp;
+</span></span></span><![endif]><span dir=LTR></span><span style='font-size:
+12.0pt;line-height:115%'>Upload docker image to Docker Hub repo using upload_docker
+script.<o:p></o:p></span></p>
+
+<p class=MsoHeading8 style='mso-list:l58 level1 lfo59'><![if !supportLists]><span
+style='font-size:12.0pt;line-height:115%;color:black;mso-style-style3d-lightrigtype:
+13;mso-style-style3d-lightrigdirection:2;mso-style-style3d-lightrigrotation-anglatitude:
+0;mso-style-style3d-lightrigrotation-anglongitude:0;mso-style-style3d-lightrigrotation-angrevolution:
+0'><span style='mso-list:Ignore'>13.<span style='font:7.0pt "Times New Roman"'>&nbsp;
+</span></span></span><![endif]><span dir=LTR></span><span style='font-size:
+12.0pt;line-height:115%'>Install kubectl and minikube to run kubernetes
+locally.<o:p></o:p></span></p>
+
+<p class=MsoHeading8 style='mso-list:l58 level1 lfo59'><![if !supportLists]><span
+style='font-size:12.0pt;line-height:115%;color:black;mso-style-style3d-lightrigtype:
+13;mso-style-style3d-lightrigdirection:2;mso-style-style3d-lightrigrotation-anglatitude:
+0;mso-style-style3d-lightrigrotation-anglongitude:0;mso-style-style3d-lightrigrotation-angrevolution:
+0'><span style='mso-list:Ignore'>14.<span style='font:7.0pt "Times New Roman"'>&nbsp;
+</span></span></span><![endif]><span dir=LTR></span><span style='font-size:
+12.0pt;line-height:115%'>Run run_kubernetes script.<o:p></o:p></span></p>
+
+<p class=MsoHeading8 style='mso-list:l58 level1 lfo59'><![if !supportLists]><span
+style='font-size:12.0pt;line-height:115%;color:black;mso-style-style3d-lightrigtype:
+13;mso-style-style3d-lightrigdirection:2;mso-style-style3d-lightrigrotation-anglatitude:
+0;mso-style-style3d-lightrigrotation-anglongitude:0;mso-style-style3d-lightrigrotation-angrevolution:
+0'><span style='mso-list:Ignore'>15.<span style='font:7.0pt "Times New Roman"'>&nbsp;
+</span></span></span><![endif]><span dir=LTR></span><span style='font-size:
+12.0pt;line-height:115%'>Run prediction script to get result for local pod.<o:p></o:p></span></p>
+
+<p class=MsoHeading8 style='mso-list:l58 level1 lfo59'><![if !supportLists]><span
+style='font-size:12.0pt;line-height:115%;color:black;mso-style-style3d-lightrigtype:
+13;mso-style-style3d-lightrigdirection:2;mso-style-style3d-lightrigrotation-anglatitude:
+0;mso-style-style3d-lightrigrotation-anglongitude:0;mso-style-style3d-lightrigrotation-angrevolution:
+0'><span style='mso-list:Ignore'>16.<span style='font:7.0pt "Times New Roman"'>&nbsp;
+</span></span></span><![endif]><span dir=LTR></span><span style='font-size:
+12.0pt;line-height:115%'>Configuring circleci to test project code.<o:p></o:p></span></p>
+
+<p class=MsoHeading8 style='text-indent:0in;mso-list:none'><o:p>&nbsp;</o:p></p>
+
+<h3>GitHub repo files:<span style='mso-spacerun:yes'>  </span>“git@github.com:mohamedrafaat1/devops.git”</h3>
+
+<p class=MsoNormalCxSpFirst style='mso-list:l0 level1 lfo1'><![if !supportLists]><span
+style='font-size:11.0pt;line-height:115%;font-family:Symbol;mso-fareast-font-family:
+Symbol;mso-bidi-font-family:Symbol;font-weight:normal;mso-bidi-font-weight:
+bold'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
+</span></span></span><![endif]><span dir=LTR></span><span style='font-size:
+14.0pt;line-height:115%'>Dockerfile: including required info to build docker.<o:p></o:p></span></p>
+
+<p class=MsoNormalCxSpMiddle style='mso-list:l0 level1 lfo1'><![if !supportLists]><span
+style='font-size:11.0pt;line-height:115%;font-family:Symbol;mso-fareast-font-family:
+Symbol;mso-bidi-font-family:Symbol;font-weight:normal;mso-bidi-font-weight:
+bold'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
+</span></span></span><![endif]><span dir=LTR></span><span style='font-size:
+14.0pt;line-height:115%'>Makefile: to install all requirement packages and create
+virtual environment<o:p></o:p></span></p>
+
+<p class=MsoNormalCxSpMiddle style='mso-list:l0 level1 lfo1'><![if !supportLists]><span
+style='font-size:11.0pt;line-height:115%;font-family:Symbol;mso-fareast-font-family:
+Symbol;mso-bidi-font-family:Symbol;font-weight:normal;mso-bidi-font-weight:
+bold'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
+</span></span></span><![endif]><span dir=LTR></span><span style='font-size:
+14.0pt;line-height:115%'>Requirements:<span style='mso-spacerun:yes'> 
+</span>include all required packages to be installed automatically.<o:p></o:p></span></p>
+
+<p class=MsoNormalCxSpMiddle style='mso-list:l0 level1 lfo1'><![if !supportLists]><span
+style='font-size:11.0pt;line-height:115%;font-family:Symbol;mso-fareast-font-family:
+Symbol;mso-bidi-font-family:Symbol;font-weight:normal;mso-bidi-font-weight:
+bold'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
+</span></span></span><![endif]><span dir=LTR></span><span style='font-size:
+14.0pt;line-height:115%'>Run_docker: its descriptive script to run docker.<o:p></o:p></span></p>
+
+<p class=MsoNormalCxSpMiddle style='mso-list:l0 level1 lfo1'><![if !supportLists]><span
+style='font-size:11.0pt;line-height:115%;font-family:Symbol;mso-fareast-font-family:
+Symbol;mso-bidi-font-family:Symbol;font-weight:normal;mso-bidi-font-weight:
+bold'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
+</span></span></span><![endif]><span dir=LTR></span><span style='font-size:
+14.0pt;line-height:115%'>Run_kubernetes: its descriptive script to run
+kubernetes.<o:p></o:p></span></p>
+
+<p class=MsoNormalCxSpMiddle style='mso-list:l0 level1 lfo1'><![if !supportLists]><span
+style='font-size:11.0pt;line-height:115%;font-family:Symbol;mso-fareast-font-family:
+Symbol;mso-bidi-font-family:Symbol;font-weight:normal;mso-bidi-font-weight:
+bold'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
+</span></span></span><![endif]><span dir=LTR></span><span style='font-size:
+14.0pt;line-height:115%'>Upload_docker: to upload local docker image to docker
+hub repo.<o:p></o:p></span></p>
+
+<p class=MsoNormalCxSpMiddle style='mso-list:l0 level1 lfo1'><![if !supportLists]><span
+style='font-size:11.0pt;line-height:115%;font-family:Symbol;mso-fareast-font-family:
+Symbol;mso-bidi-font-family:Symbol;font-weight:normal;mso-bidi-font-weight:
+bold'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
+</span></span></span><![endif]><span dir=LTR></span><span style='font-size:
+14.0pt;line-height:115%'>Config.yml: yaml configuration file that include all
+instructions to test this project through circleci website. <o:p></o:p></span></p>
+
+<p class=MsoNormalCxSpMiddle style='text-indent:0in;mso-list:none'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormalCxSpMiddle style='margin-left:0in;mso-add-space:auto;
+text-indent:0in;mso-list:none'><span style='font-size:16.0pt;line-height:115%'><span
+style='mso-spacerun:yes'> </span></span><span style='font-size:18.0pt;
+line-height:115%'><span style='mso-spacerun:yes'> </span>Docker Hub repo:<span
+style='mso-spacerun:yes'>  </span>“mohamedrafaat/sklearn-img”</span><span
+style='font-size:16.0pt;line-height:115%'><o:p></o:p></span></p>
+
+<p class=MsoNormalCxSpLast style='text-indent:0in;mso-list:none'><o:p>&nbsp;</o:p></p>
 
 </div>
 
