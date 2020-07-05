@@ -5,7 +5,8 @@
 
 
 
-                                                                         SKlearn Project
+
+# SKlearn Project
 
 •	SKlearn is a Machine Learning Microservice application that predict housing prices through API calls including several features, such as average rooms in a home and data about highway access, teacher-to-pupil ratios, and so on. 
 
