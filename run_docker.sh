@@ -4,7 +4,6 @@
 
 # Step 1:
 # Build image and add a descriptive tag
-#docker build --tag=sklearn-img .
 docker build . --tag=sklearn-img:latest 
 
 # Step 2: 
