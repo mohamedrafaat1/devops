@@ -1,4 +1,4 @@
-# devops
+#                                              SKlearn Project
 
 [![mohamedrafaat1](https://circleci.com/gh/mohamedrafaat1/devops.svg?style=shield)](https://app.circleci.com/pipelines/github/mohamedrafaat1)
 
@@ -6,7 +6,7 @@
 
 
 
-# SKlearn Project
+# Project Instructuion                                                  
 
 •	SKlearn is a Machine Learning Microservice application that predict housing prices through API calls including several features, such as average rooms in a home and data about highway access, teacher-to-pupil ratios, and so on. 
 
