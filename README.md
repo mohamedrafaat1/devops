@@ -1,3 +1,7 @@
+
+[![mohamedrafaat1](https://circleci.com/gh/mohamedrafaat1/devops.svg?style=shield)](https://app.circleci.com/pipelines/github/mohamedrafaat1)
+
+
 <html xmlns:v="urn:schemas-microsoft-com:vml"
 xmlns:o="urn:schemas-microsoft-com:office:office"
 xmlns:w="urn:schemas-microsoft-com:office:word"
@@ -11,29 +15,21 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <meta name=Originator content="Microsoft Word 15">
 <link rel=File-List href="AWSDevAssociate_files/filelist.xml">
 <link rel=Preview href="AWSDevAssociate_files/preview.wmf">
-<link rel=Edit-Time-Data href="AWSDevAssociate_files/editdata.mso">
-<!--[if !mso]>
-<style>
-v\:* {behavior:url(#default#VML);}
-o\:* {behavior:url(#default#VML);}
-w\:* {behavior:url(#default#VML);}
-.shape {behavior:url(#default#VML);}
-</style>
-<![endif]--><!--[if gte mso 9]><xml>
+<!--[if gte mso 9]><xml>
  <o:DocumentProperties>
   <o:Author>Mohamed Rafaat</o:Author>
   <o:LastAuthor>Mohamed Rafaat Abdelrady Mohamed</o:LastAuthor>
-  <o:Revision>2</o:Revision>
-  <o:TotalTime>35053</o:TotalTime>
+  <o:Revision>3</o:Revision>
+  <o:TotalTime>35061</o:TotalTime>
   <o:LastPrinted>2019-01-02T16:22:00Z</o:LastPrinted>
   <o:Created>2020-07-05T03:25:00Z</o:Created>
-  <o:LastSaved>2020-07-05T03:25:00Z</o:LastSaved>
+  <o:LastSaved>2020-07-05T03:33:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>283</o:Words>
+  <o:Words>282</o:Words>
   <o:Characters>1614</o:Characters>
   <o:Lines>13</o:Lines>
   <o:Paragraphs>3</o:Paragraphs>
-  <o:CharactersWithSpaces>1894</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>1893</o:CharactersWithSpaces>
   <o:Version>15.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -41,12 +37,13 @@ w\:* {behavior:url(#default#VML);}
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
 </xml><![endif]-->
-<link rel=dataStoreItem href="AWSDevAssociate_files/item0001.xml"
-target="AWSDevAssociate_files/props002.xml">
+<link rel=dataStoreItem href="AWSDevAssociate_files/item0009.xml"
+target="AWSDevAssociate_files/props010.xml">
 <link rel=themeData href="AWSDevAssociate_files/themedata.thmx">
 <link rel=colorSchemeMapping href="AWSDevAssociate_files/colorschememapping.xml">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
+  <w:Zoom>140</w:Zoom>
   <w:TrackMoves>false</w:TrackMoves>
   <w:TrackFormatting/>
   <w:PunctuationKerning/>
@@ -10463,7 +10460,8 @@ mso-outline-level:1;mso-list:none'><span style='font-size:24.0pt;font-family:
  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
   <td width=380 valign=top style='width:284.85pt;padding:0in 5.4pt 0in 5.4pt'>
   <h1 style='margin-bottom:0in;margin-bottom:.0001pt;mso-add-space:auto;
-  line-height:normal;mso-outline-level:1'>SKlearn Project<o:p></o:p></h1>
+  line-height:normal;mso-outline-level:1'><span style='font-size:20.0pt'>SKlearn
+  Project<o:p></o:p></span></h1>
   <p class=MsoNormalCxSpFirst style='margin:0in;margin-bottom:.0001pt;
   mso-add-space:auto;text-indent:0in;line-height:normal;mso-list:none'><span
   style='mso-no-proof:yes'><o:p>&nbsp;</o:p></span></p>
@@ -10472,31 +10470,7 @@ mso-outline-level:1;mso-list:none'><span style='font-size:24.0pt;font-family:
  <tr style='mso-yfti-irow:1;mso-yfti-lastrow:yes'>
   <td width=380 valign=top style='width:284.85pt;padding:0in 5.4pt 0in 5.4pt'>
   <p class=MsoNormalCxSpMiddle style='margin:0in;margin-bottom:.0001pt;
-  mso-add-space:auto;text-indent:0in;line-height:normal;mso-list:none'><span
-  style='mso-no-proof:yes'><v:shapetype id="_x0000_t75" coordsize="21600,21600"
-   o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe" filled="f"
-   stroked="f">
-   <v:stroke joinstyle="miter"/>
-   <v:formulas>
-    <v:f eqn="if lineDrawn pixelLineWidth 0"/>
-    <v:f eqn="sum @0 1 0"/>
-    <v:f eqn="sum 0 0 @1"/>
-    <v:f eqn="prod @2 1 2"/>
-    <v:f eqn="prod @3 21600 pixelWidth"/>
-    <v:f eqn="prod @3 21600 pixelHeight"/>
-    <v:f eqn="sum @0 0 1"/>
-    <v:f eqn="prod @6 1 2"/>
-    <v:f eqn="prod @7 21600 pixelWidth"/>
-    <v:f eqn="sum @8 21600 0"/>
-    <v:f eqn="prod @7 21600 pixelHeight"/>
-    <v:f eqn="sum @10 21600 0"/>
-   </v:formulas>
-   <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
-   <o:lock v:ext="edit" aspectratio="t"/>
-  </v:shapetype><v:shape id="Picture_x0020_1" o:spid="_x0000_i1025" type="#_x0000_t75"
-   style='width:273.75pt;height:173.25pt;visibility:visible;mso-wrap-style:square'>
-   <v:imagedata src="AWSDevAssociate_files/image001.png" o:title=""/>
-  </v:shape></span></p>
+  mso-add-space:auto;text-indent:0in;line-height:normal;mso-list:none'><o:p>&nbsp;</o:p></p>
   </td>
  </tr>
 </table>
